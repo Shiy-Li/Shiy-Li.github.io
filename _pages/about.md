@@ -38,7 +38,7 @@ Selected Papers (first-author/co-first-author)
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/mqe.jpg"></dt>
   <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
-  <dd>Shiyuan Li*, <strong>Yixin Liu</strong>*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
+  <dd><strong>Shiyuan Li</strong>*, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
   <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
