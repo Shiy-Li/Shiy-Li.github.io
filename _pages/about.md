@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Shiyuan Li (李世源), a master student of computer science at Guangxi University advised by Prof. [Qingfeng Chen](https://dblp.dagstuhl.de/pid/62/1656.html). 
-My research interests mainly focus on the areas of artificial intelligence and data mining, especially for the graph representation learning and graph foundation model.
+Hi! I am Shiyuan Li (李世源), a master’s student in computer science at Guangxi University, advised by Prof. [Qingfeng Chen](https://dblp.dagstuhl.de/pid/62/1656.html). 
+My research interests mainly focus on the areas of artificial intelligence and data mining, particularly in graph representation learning and graph foundation model.
 Previously, I received my bachelor degree of information and computing science from Changsha University.
 
 
