@@ -48,10 +48,11 @@ Selected Papers (first-author/co-first-author)
 
 ---
 
-<dl> <dt><img align="left" width="200" hspace="10" wspace="20" src="/images/bi-sgtar.jpg"></dt> 
+<dl> 
+  <dt><img align="left" width="200" hspace="10" wspace="20" src="/images/bi-sgtar.jpg"></dt> 
   <dd><strong>Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only</strong></dd> 
   <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd> 
-  <dd>Knowledge-based Systems (<strong>KBS</strong>), 2024</dd> 
+  <dd> Knowledge-based Systems (<strong>KBS</strong>), 2024</dd> 
   <dd> 
     <a href="https://www.sciencedirect.com/science/article/pii/S0950705124002570">[Paper]</a> 
     <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a> 
