@@ -48,23 +48,17 @@ Selected Papers (first-author/co-first-author)
 
 ---
 
-<dl>
-  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/mqe.jpg"></dt>
-  <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
-  <dd><strong>Shiyuan Li</strong>*, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
-  <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
+<dl> 
+  <dt><img align="left" width="200" hspace="10" wspace="20" src="/images/bi-sgtar.jpg"></dt> 
+  <dd><strong>Bi-SGTAR: A simple yet efficient model for circRNA-disease association prediction based on known association pair only</strong></dd> 
+  <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd> 
+  <dd> Knowledge-based Systems (<strong>KBS</strong>), 2024</dd> 
   <dd>
-    <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
-    <a href="https://github.com/Shiy-Li/MQE">[Code]</a>
+   <a href="https://www.sciencedirect.com/science/article/pii/S0950705124002570">[Paper]</a>
+   <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a>
   </dd>
 </dl>
 
-
-Education 
-------
-* M.S. (2022-2025) in Guangxi University
-
-* B.S. (2018-2012) in Changsha University
 
 Contact
 ------
