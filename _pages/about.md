@@ -72,8 +72,6 @@ Selected Papers (first-author/co-first-author)
   </dd>
 </dl>
 
----
-
 Education 
 ------
 * M.S. (2022-2025) in Guangxi University
