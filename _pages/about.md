@@ -16,6 +16,7 @@ News
 ------
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/07: Our paper on [graph representation learning](https://arxiv.org/pdf/2407.19944) has been accepted by CIKM 2024.
+* 2024/03: Our paper on [non-coding RNA-disease association prediction](https://doi.org/10.1016/j.knosys.2024.111622) has been accepted by Knowledge-based Systems.
 
 
 Selected Papers (first-author/co-first-author)
@@ -42,6 +43,19 @@ Selected Papers (first-author/co-first-author)
   <dd>
     <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
     <a href="https://github.com/Shiy-Li/MQE">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/bi-sgtar.jpg"></dt>
+  <dd><strong>Bi-SGTAR: A simple yet efficient model for circRNA-disease association prediction based on known association pair only</strong></dd>
+  <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd>
+  <dd> Knowledge-based Systems (<strong>KBS</strong>), 2024</dd>
+  <dd>
+    <a href="https://doi.org/10.1016/j.knosys.2024.111622">[Paper]</a> 
+    <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a>
   </dd>
 </dl>
 
