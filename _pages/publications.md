@@ -39,6 +39,7 @@ BMC Bioinformatics, 2021.
 <!-- (<span style="color:black">*JCR Q1\*, IF: 2.9*</span>) -->
 
 * An iteration method for identifying yeast essential proteins from weighted PPI network based on topological and functional features of proteins \[[PDF](https://doi.org/10.1109/ACCESS.2020.2993860)\] <br>
+
 **Shiyuan Li**, Zhiping Chen, Xin He, Zhen Zhang, Tingrui Pei, Yihong Tan, Lei Wang.  
 IEEE Access, 2020.
 <!-- (<span style="color:red">*IF: 3.4*</span>) -->
