@@ -18,7 +18,7 @@ author_profile: true
 ## Conference
 -----
 * ARC: A Generalist Graph Anomaly Detector with In-Context Learning \[[PDF](https://arxiv.org/pdf/2405.16771)\] \[[Code](https://github.com/shiy-li/arc)\]    
-Yixin Liu\*, **Shiyuan Li**, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan.    
+Yixin Liu\*, **Shiyuan Li**\*, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan.    
 Advances in Neural Information Processing Systems (**NeurIPS**), 2024
 
 * Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation \[[PDF](https://arxiv.org/pdf/2407.19944)\] \[[Code](https://github.com/shiy-li/mqe)\]  
