@@ -66,7 +66,7 @@ Education
 ------
 * M.S. (2022-2025) in Guangxi University
 
-* B.S. (2018-2012) in Beihang University
+* B.S. (2018-2012) in Changsha University
 
 Contact
 ------
