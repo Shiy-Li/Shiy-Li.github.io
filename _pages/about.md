@@ -25,7 +25,7 @@ Selected Papers (first-author/co-first-author)
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arc.jpg"></dt>
   <dd><strong>ARC: A Generalist Graph Anomaly Detector with in-Context Learning</strong></dd>
-  <dd><strong>Yixin Liu</strong>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</dd>
+  <dd>Yixin Liu*, <strong>Shiyuan Li*</strong>, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</dd>
   <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
@@ -48,18 +48,13 @@ Selected Papers (first-author/co-first-author)
 
 ---
 
-<dl>
-  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/bi-sgtar.jpg"></dt>
-  <dd><strong>Bi-SGTAR: A simple yet Efficient Model for CircRNA-disease Association Prediction based on Known Association Pair Only</strong></dd>
-  <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd>
-  <dd> Knowledge-based Systems (<strong>KBS</strong>), 2024</dd>
-  <dd>
-    <a href="https://doi.org/10.1016/j.knosys.2024.111622">[Paper]</a> 
-    <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a>
-  </dd>
-  <dd> </dd>
-  <dd> </dd>
-  <dd> </dd>
+<dl> <dt><img align="left" width="200" hspace="10" wspace="20" src="/images/bi-sgtar.jpg"></dt> 
+  <dd><strong>Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only</strong></dd> 
+  <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd> 
+  <dd>Knowledge-based Systems (<strong>KBS</strong>), 2024</dd> 
+  <dd> <a href="https://doi.org/10.1016/j.knosys.2024.111622">[Paper]</a> 
+    <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a> 
+  </dd> 
 </dl>
 
 ---
