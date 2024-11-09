@@ -29,20 +29,20 @@ Selected Papers (first-author/co-first-author)
   <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
-    <a href="https://github.com/yixinliu233/ARC">[Code]</a>
+    <a href="https://github.com/shiy-li/ARC">[Code]</a>
   </dd>
 </dl>
 
 ---
 
 <dl>
-  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arc.jpg"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/mqe.jpg"></dt>
   <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
   <dd><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
   <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
-    <a href="https://github.com/yixinliu233/ARC">[Code]</a>
+    <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
+    <a href="https://github.com/shiy-li/MQE">[Code]</a>
   </dd>
 </dl>
 
