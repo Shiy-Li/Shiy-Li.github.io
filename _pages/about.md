@@ -29,7 +29,7 @@ Selected Papers (first-author/co-first-author)
   <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
-    <a href="https://github.com/yixinliu233/ARC">[Code]</a>
+    <a href="https://github.com/shiy-li/ARC">[Code]</a>
   </dd>
 </dl>
 
@@ -38,11 +38,11 @@ Selected Papers (first-author/co-first-author)
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/mqe.jpg"></dt>
   <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
-  <dd><strong>Shiyuan Li</strong>*, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
+  <dd><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
   <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
-    <a href="https://github.com/Shiy-Li/MQE">[Code]</a>
+    <a href="https://github.com/shiy-li/MQE">[Code]</a>
   </dd>
 </dl>
 
@@ -50,16 +50,16 @@ Selected Papers (first-author/co-first-author)
 
 <dl> 
   <dt><img align="left" width="200" hspace="10" wspace="20" src="/images/bi-sgtar.jpg"></dt> 
-  <dd><strong>Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only</strong></dd> 
+  <dd><strong>Bi-SGTAR: A simple yet efficient model for circRNA-disease association prediction based on known association pair only</strong></dd> 
   <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd> 
   <dd> Knowledge-based Systems (<strong>KBS</strong>), 2024</dd> 
-  <dd> 
-    <a href="https://www.sciencedirect.com/science/article/pii/S0950705124002570">[Paper]</a> 
-    <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a> 
-  </dd> 
+  <dd>
+   <a href="https://www.sciencedirect.com/science/article/pii/S0950705124002570">[Paper]</a>
+   <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a>
+  </dd>
 </dl>
 
----
+
 
 Contact
 ------
