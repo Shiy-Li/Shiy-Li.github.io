@@ -61,6 +61,13 @@ Selected Papers (first-author/co-first-author)
 
 ---
 
+
+Education 
+------
+* M.S. (2022-2025) in Guangxi University
+
+* B.S. (2018-2012) in Beihang University
+
 Contact
 ------
 * Email: shiy.li\[at\]alu\[dot\]gxu\[dot\]edu\[dot\]cn
