@@ -59,7 +59,11 @@ Selected Papers (first-author/co-first-author)
   </dd>
 </dl>
 
-
+Award
+------
+* National Scholarship (only 1% for postgraduate students), 2024
+* Outstanding Graduate in Hunan (only 4%), 2022
+* National Scholarship (only 0.2% for undergraduate students), 2021
 
 Contact
 ------
