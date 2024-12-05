@@ -69,4 +69,4 @@ Awards
 
 Contact
 ------
-* Email: shiy.li\[at\]alu\[dot\]gxu\[dot\]edu\[dot\]cn
+* Email: shiy\[dot\]li\[at\]alu\[dot\]gxu\[dot\]edu\[dot\]cn
