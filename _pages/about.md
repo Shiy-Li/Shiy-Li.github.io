@@ -15,7 +15,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 News
 ------
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
-* 2024/07: Our paper on [graph representation learning](https://arxiv.org/pdf/2407.19944) has been accepted by CIKM 2024.
+* 2024/07: Our paper on [graph representation learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679758) has been accepted by CIKM 2024.
 * 2024/03: Our paper on [non-coding RNA-disease association prediction](https://doi.org/10.1016/j.knosys.2024.111622) has been accepted by Knowledge-based Systems.
 
 
@@ -41,7 +41,7 @@ Selected Papers (first-author/co-first-author)
   <dd><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
   <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679758">[Paper]</a> 
     <a href="https://github.com/shiy-li/MQE">[Code]</a>
   </dd>
 </dl>
