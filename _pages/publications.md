@@ -29,7 +29,7 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 ## Journal
 -----
 * Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach \[[PDF](https://doi.org/10.1016/j.knosys.2024.111622)\] \[[Code](https://github.com/shiy-li/efgnn)\] <br>
-Qingfeng Chen, **Shiyuan Li**, Yixin Liu, Shirui Pan, Webb Geoff, Shichao Zhang.
+Qingfeng Chen, **Shiyuan Li**, Yixin Liu, Shirui Pan, Webb Geoffrey, Shichao Zhang.
 IEEE Transactions on Neural Networks and Learning Systems, 2025.
 
 * Bi-SGTAR: A simple yet efficient model for circRNA-disease association prediction
