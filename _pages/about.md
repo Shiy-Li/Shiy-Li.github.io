@@ -14,6 +14,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 News
 ------
+* 2025/06: Our paper on [uncertainty-aware graph neural network](https://arxiv.org/pdf/2405.16771) has been accepted by TNNLS 2025.
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/07: Our paper on [graph representation learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679758) has been accepted by CIKM 2024.
 * 2024/03: Our paper on [non-coding RNA-disease association prediction](https://doi.org/10.1016/j.knosys.2024.111622) has been accepted by Knowledge-based Systems.
@@ -21,6 +22,19 @@ News
 
 Selected Papers (first-author/co-first-author)
 ------
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/EFGNN.jpg"></dt>
+  <dd><strong>Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach</strong></dd>
+  <dd>Qingfeng Chen, <strong>Shiyuan Li</strong>, Yixin Liu, Shirui Pan, Webb, Geoff, Shichao Zhang</dd>
+  <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2025</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
+    <a href="https://github.com/shiy-li/EFGNN">[Code]</a>
+  </dd>
+</dl>
+
+---
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arc.jpg"></dt>
