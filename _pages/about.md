@@ -26,7 +26,7 @@ Selected Papers (first-author/co-first-author)
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/EFGNN.jpg"></dt>
   <dd><strong>Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach</strong></dd>
-  <dd>Qingfeng Chen, <strong>Shiyuan Li</strong>, Yixin Liu, Shirui Pan, Webb Geoffrey, Shichao Zhang</dd>
+  <dd>Qingfeng Chen, <strong>Shiyuan Li</strong>, Yixin Liu, Shirui Pan, Geoffrey I. Webb, Shichao Zhang</dd>
   <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2025</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
@@ -52,7 +52,7 @@ Selected Papers (first-author/co-first-author)
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/pipeline.png"></dt>
   <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
-  <dd><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
+  <dd><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I. Webb, Shirui Pan</dd>
   <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
   <dd>
     <a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679758">[Paper]</a> 
