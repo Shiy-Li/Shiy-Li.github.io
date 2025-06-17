@@ -29,7 +29,7 @@ Selected Papers (first-author/co-first-author)
   <dd>Qingfeng Chen*, <strong>Shiyuan Li*</strong>, Yixin Liu, Shirui Pan, Geoffrey I. Webb, Shichao Zhang</dd>
   <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2025</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
+    <a href="https://arxiv.org/pdf/2506.13083">[Paper]</a> 
     <a href="https://github.com/shiy-li/EFGNN">[Code]</a>
   </dd>
 </dl>
@@ -42,7 +42,7 @@ Selected Papers (first-author/co-first-author)
   <dd>Yixin Liu*, <strong>Shiyuan Li*</strong>, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</dd>
   <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
+    <a href="https://arxiv.org/pdf/2405.16771">[Paper]</a> 
     <a href="https://github.com/shiy-li/ARC">[Code]</a>
   </dd>
 </dl>
