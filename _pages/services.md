@@ -7,9 +7,10 @@ author_profile: true
 
 Journal Reviewer
 ----
-* [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) (IF: 9.4)
-* [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) (IF: 6)
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (IF: 8.9)
+* [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) (IF: 10.5)
+* [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) (IF: 6.3)
 * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989
-) (IF: 5)
-* [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 5.5)
-* [Scientific Reports](https://www.nature.com/srep) (IF: 3.8)
+) (IF: 4.9)
+* [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 6.5)
+* [Scientific Reports](https://www.nature.com/srep) (IF: 3.9)
