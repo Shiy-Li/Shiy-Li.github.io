@@ -14,6 +14,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 News
 ------
+* 2025/07: Our paper on [Multi-Agent Collaboration](https://arxiv.org/abs/2507.18224) has been released on arXiv.
 * 2025/06: Our paper on [uncertainty-aware graph neural network](https://arxiv.org/abs/2506.13083) has been accepted by TNNLS 2025.
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/07: Our paper on [graph representation learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679758) has been accepted by CIKM 2024.
