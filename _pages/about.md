@@ -31,7 +31,7 @@ Selected Papers (first-author/co-first-author)
   <!-- <div style="min-height: 0px;"> -->
   <dd><strong>Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation</strong></dd>
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan</dd>
-  <dd> arXivarXivarXivarXivarXiv (<strong>under review</strong>)</dd>
+  <dd> arXiv (<strong>under review</strong>)</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2507.18224">[Paper]</a> 
     <a href="https://github.com/shiy-li/ARG-Designer">[Code]</a>
