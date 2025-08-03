@@ -27,7 +27,8 @@ Selected Papers (first-author/co-first-author)
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ARG-Designer.jpg"></dt>
-  <dd><strong>Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation</strong></dd>
+  <dd><strong>Assemble Your Crew: Automatic Multi-agent Communication Topology Design </br>
+    via Autoregressive Graph Generation</strong></dd>
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan</dd>
   <dd> arXiv (<strong>under review</strong>)</dd>
   <dd>
