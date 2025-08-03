@@ -25,80 +25,68 @@ News
 Selected Papers (first-author/co-first-author)
 ------
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/ARG-Designer.jpg" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <div style="margin-bottom: 5px;"><strong>Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation</strong></div>
-    <div style="margin-bottom: 5px;"><strong>Shiyuan Li</strong>, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan</div>
-    <div style="margin-bottom: 5px;">arXiv (<strong>under review</strong>)</div>
-    <div>
-      <a href="https://arxiv.org/pdf/2507.18224">[Paper]</a> 
-      <a href="https://github.com/shiy-li/ARG-Designer">[Code]</a>
-    </div>
-  </div>
-</div>
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ARG-Designer.jpg"></dt>
+  <dd><strong>Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation</strong></dd>
+  <dd><strong>Shiyuan Li</strong>, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan</dd>
+  <dd> arXiv (<strong>under review</strong>)</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2507.18224">[Paper]</a> 
+    <a href="https://github.com/shiy-li/ARG-Designer">[Code]</a>
+  </dd>
+</dl>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/EFGNN.jpg" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <div style="margin-bottom: 8px;"><strong>Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach</strong></div>
-    <div style="margin-bottom: 8px;">Qingfeng Chen*, <strong>Shiyuan Li*</strong>, Yixin Liu, Shirui Pan, Geoffrey I. Webb, Shichao Zhang</div>
-    <div style="margin-bottom: 8px;">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2025</div>
-    <div>
-      <a href="https://arxiv.org/pdf/2506.13083">[Paper]</a> 
-      <a href="https://github.com/shiy-li/EFGNN">[Code]</a>
-    </div>
-  </div>
-</div>
+---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/arc.jpg" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <div style="margin-bottom: 8px;"><strong>ARC: A Generalist Graph Anomaly Detector with in-Context Learning</strong></div>
-    <div style="margin-bottom: 8px;">Yixin Liu*, <strong>Shiyuan Li*</strong>, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</div>
-    <div style="margin-bottom: 8px;">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</div>
-    <div>
-      <a href="https://arxiv.org/pdf/2405.16771">[Paper]</a> 
-      <a href="https://github.com/shiy-li/ARC">[Code]</a>
-    </div>
-  </div>
-</div>
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/EFGNN.jpg"></dt>
+  <dd><strong>Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach</strong></dd>
+  <dd>Qingfeng Chen*, <strong>Shiyuan Li*</strong>, Yixin Liu, Shirui Pan, Geoffrey I. Webb, Shichao Zhang</dd>
+  <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2025</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2506.13083">[Paper]</a> 
+    <a href="https://github.com/shiy-li/EFGNN">[Code]</a>
+  </dd>
+</dl>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/pipeline.png" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <div style="margin-bottom: 8px;"><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></div>
-    <div style="margin-bottom: 8px;"><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I. Webb, Shirui Pan</div>
-    <div style="margin-bottom: 8px;">ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</div>
-    <div>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679758">[Paper]</a> 
-      <a href="https://github.com/shiy-li/MQE">[Code]</a>
-    </div>
-  </div>
-</div>
+---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/bi-sgtar.jpg" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <div style="margin-bottom: 8px;"><strong>Bi-SGTAR: A simple yet efficient model for circRNA-disease association prediction based on known association pair only</strong></div>
-    <div style="margin-bottom: 8px;"><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</div>
-    <div style="margin-bottom: 8px;">Knowledge-based Systems (<strong>KBS</strong>), 2024</div>
-    <div>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0950705124002570">[Paper]</a>
-      <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a>
-    </div>
-  </div>
-</div>
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arc.jpg"></dt>
+  <dd><strong>ARC: A Generalist Graph Anomaly Detector with in-Context Learning</strong></dd>
+  <dd>Yixin Liu*, <strong>Shiyuan Li*</strong>, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</dd>
+  <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2405.16771">[Paper]</a> 
+    <a href="https://github.com/shiy-li/ARC">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/pipeline.png"></dt>
+  <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
+  <dd><strong>Shiyuan Li*</strong>, Yixin Liu*, Qingfeng Chen, Geoffrey I. Webb, Shirui Pan</dd>
+  <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
+  <dd>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679758">[Paper]</a> 
+    <a href="https://github.com/shiy-li/MQE">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl> 
+  <dt><img align="left" width="200" hspace="10" wspace="20" src="/images/bi-sgtar.jpg"></dt> 
+  <dd><strong>Bi-SGTAR: A simple yet efficient model for circRNA-disease association prediction based on known association pair only</strong></dd> 
+  <dd><strong>Shiyuan Li</strong>, Qingfeng Chen, Zhixian Liu, Shirui Pan, Shichao Zhang</dd> 
+  <dd> Knowledge-based Systems (<strong>KBS</strong>), 2024</dd> 
+  <dd>
+   <a href="https://www.sciencedirect.com/science/article/pii/S0950705124002570">[Paper]</a>
+   <a href="https://github.com/Shiy-Li/Bi-SGTAR">[Code]</a>
+  </dd>
+</dl>
 
 
 Awards
