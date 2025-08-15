@@ -14,6 +14,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 News
 ------
+* 2025/08: Our paper on [Traning-Free Graph Anomaly Detection](https://arxiv.org/abs/2508.10594) has been accepted by CIKM 2025.
 * 2025/07: Our position paper on [Graph-Augmented LLM-based Agents](https://arxiv.org/pdf/2507.21407) has been released on arXiv.
 * 2025/07: Our paper on [Autoregressive Generation of Multi-Agent Collaboration Graphs](https://arxiv.org/abs/2507.18224) has been released on arXiv.
 * 2025/06: Our paper on [uncertainty-aware graph neural network](https://arxiv.org/abs/2506.13083) has been accepted by TNNLS 2025.
@@ -25,6 +26,18 @@ News
 Selected Papers (first-author/co-first-author)
 ------
 
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/FreeGAD.jpg"></dt>
+  <!-- <div style="min-height: 0px;"> -->
+  <dd><strong>FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection</strong></dd>
+  <dd>Yunfeng Zhao*, Yixin Liu*, <strong>Shiyuan Li*</strong>, Qingfeng Chen, Yu Zheng, Shirui Pan</dd>
+  <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2025</dd>
+  <dd>
+    <a href="https://arxiv.org/abs/2508.10594">[Paper]</a> 
+    <a href="https://github.com/yunf-zhao/FreeGAD">[Code]</a>
+  </dd>
+  <!-- </div> -->
+</dl>
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ARG-Designer.jpg"></dt>
