@@ -21,11 +21,11 @@ author_profile: true
 Yunfeng Zhao\*, Yixin Liu\*, **Shiyuan Li**\*, Qingfeng Chen, Yu Zheng, Shirui Pan. <br>
 ACM International Conference on Information & Knowledge Management (**CIKM**), 2025.
 
-* ARC: A Generalist Graph Anomaly Detector with In-Context Learning \[[PDF](https://arxiv.org/pdf/2405.16771)\] \[[Code](https://github.com/shiy-li/arc)\]. <br> 
+* ARC: A Generalist Graph Anomaly Detector with In-Context Learning \[[PDF](https://arxiv.org/abs/2405.16771)\] \[[Code](https://github.com/shiy-li/arc)\]. <br> 
 Yixin Liu\*, **Shiyuan Li**\*, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan. <br>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2024
 
-* Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation \[[PDF](https://arxiv.org/pdf/2407.19944)\] \[[Code](https://github.com/shiy-li/mqe)\]. <br> 
+* Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation \[[PDF](https://arxiv.org/abs/2407.19944)\] \[[Code](https://github.com/shiy-li/mqe)\]. <br> 
 **Shiyuan Li**\*, Yixin Liu\*, Qingfeng Chen, Geoffrey I. Webb, Shirui Pan. <br>
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2024. 
 
