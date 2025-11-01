@@ -31,6 +31,10 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 
 ## Journal
 -----
+* Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects \[[PDF](https://arxiv.org/abs/2507.21407)\] \[[Code](https://github.com/Shiy-Li/Awesome-Graph-augmented-LLM-Agent)\]. <br>
+Yixin Liu, Guibin Zhang, Kun Wang, **Shiyuan Li**, Shirui Pan. <br>
+IEEE Intelligent Systems, 2025.
+
 * Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach \[[PDF](https://arxiv.org/abs/2506.13083)\] \[[Code](https://github.com/shiy-li/efgnn)\]. <br>
 Qingfeng Chen\*, **Shiyuan Li**\*, Yixin Liu, Shirui Pan, Geoffrey I. Webb, Shichao Zhang. <br>
 IEEE Transactions on Neural Networks and Learning Systems, 2025.
