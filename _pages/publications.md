@@ -19,7 +19,7 @@ author_profile: true
 -----
 * Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation \[[PDF](https://arxiv.org/abs/2507.18224)\] \[[Code](https://github.com/shiy-li/ARG-Designer)\]. <br> 
 **Shiyuan Li**, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan. <br>
-Association for the Advancement of Artificial Intelligence (**AAAI, Oral**), 2025.
+Association for the Advancement of Artificial Intelligence (**AAAI, Oral**), 2026.
 
 * FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection \[[PDF](https://arxiv.org/abs/2508.10594)\] \[[Code](https://github.com/yunf-zhao/FreeGAD)\]. <br> 
 Yunfeng Zhao\*, Yixin Liu\*, **Shiyuan Li**\*, Qingfeng Chen, Yu Zheng, Shirui Pan. <br>
