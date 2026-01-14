@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference
 -----
+* OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models \[[PDF]()\] \[[Code](https://github.com/shiy-li/OFA-MAS)\]. <br> 
+**Shiyuan Li**, Yixin Liu, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan. <br>
+The ACM Web Conference (**WWW**), 2026.
+
 * Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation \[[PDF](https://arxiv.org/abs/2507.18224)\] \[[Code](https://github.com/shiy-li/ARG-Designer)\]. <br> 
 **Shiyuan Li**, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan. <br>
 Association for the Advancement of Artificial Intelligence (**AAAI, Oral**), 2026.
