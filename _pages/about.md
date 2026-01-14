@@ -28,7 +28,7 @@ Selected Papers (first-author/co-first-author)
 ------
 
 <dl>
-  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ARG-Designer.jpg"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/OFA-MAS.png"></dt>
   <!-- <div style="min-height: 0px;"> -->
   <dd><strong>OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models</strong></dd>
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan</dd>
