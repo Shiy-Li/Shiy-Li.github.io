@@ -14,6 +14,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 News
 ------
+* 2026/01: Our paper on [One-for-All Multi-Agent System Topology Design]() has been accepted by WWW 2026.
 * 2025/11: Our paper on [Autoregressive Generation of Multi-Agent Collaboration Graphs](https://arxiv.org/abs/2507.18224) has been accepted by AAAI 2026 (Oral).
 * 2025/10: Our position paper on [Graph-Augmented LLM-based Agents](https://arxiv.org/abs/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/08: Our paper on [Traning-Free Graph Anomaly Detection](https://arxiv.org/abs/2508.10594) has been accepted by CIKM 2025.
@@ -29,9 +30,24 @@ Selected Papers (first-author/co-first-author)
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ARG-Designer.jpg"></dt>
   <!-- <div style="min-height: 0px;"> -->
+  <dd><strong>OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models</strong></dd>
+  <dd><strong>Shiyuan Li</strong>, Yixin Liu, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan</dd>
+  <dd> The ACM Web Conference (<strong>WWW</strong>), 2026</dd>
+  <dd>
+    <a href="">[Paper]</a> 
+    <a href="https://github.com/shiy-li/OFA-MAS">[Code]</a>
+  </dd>
+  <!-- </div> -->
+</dl>
+
+---
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ARG-Designer.jpg"></dt>
+  <!-- <div style="min-height: 0px;"> -->
   <dd><strong>Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation</strong></dd>
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Qingsong Wen, Chengqi Zhang, Shirui Pan</dd>
-  <dd> Association for the Advancement of Artificial Intelligence (<strong>AAAI Oral</strong>), 2025</dd>
+  <dd> Association for the Advancement of Artificial Intelligence (<strong>AAAI Oral</strong>), 2026</dd>
   <dd>
     <a href="https://arxiv.org/abs/2507.18224">[Paper]</a> 
     <a href="https://github.com/shiy-li/ARG-Designer">[Code]</a>
