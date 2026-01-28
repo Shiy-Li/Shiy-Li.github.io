@@ -14,7 +14,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 News
 ------
-* 2026/01: Our paper on [One-for-All Multi-Agent System Topology Design]() has been accepted by WWW 2026.
+* 2026/01: Our paper on [One-for-All Multi-Agent System Topology Design](https://arxiv.org/abs/2601.12996) has been accepted by WWW 2026.
 * 2025/11: Our paper on [Autoregressive Generation of Multi-Agent Collaboration Graphs](https://arxiv.org/abs/2507.18224) has been accepted by AAAI 2026 (Oral).
 * 2025/10: Our position paper on [Graph-Augmented LLM-based Agents](https://arxiv.org/abs/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/08: Our paper on [Traning-Free Graph Anomaly Detection](https://arxiv.org/abs/2508.10594) has been accepted by CIKM 2025.
@@ -34,7 +34,7 @@ Selected Papers (first-author/co-first-author)
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan</dd>
   <dd> The ACM Web Conference (<strong>WWW</strong>), 2026</dd>
   <dd>
-    <a href="">[Paper]</a> 
+    <a href="https://arxiv.org/abs/2601.12996">[Paper]</a> 
     <a href="https://github.com/shiy-li/OFA-MAS">[Code]</a>
   </dd>
   <!-- </div> -->
