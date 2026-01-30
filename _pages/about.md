@@ -32,7 +32,7 @@ Selected Papers (first-author/co-first-author)
   <!-- <div style="min-height: 0px;"> -->
   <dd><strong>OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models</strong></dd>
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan</dd>
-  <dd> The ACM Web Conference (<strong>WWW</strong>), 2026</dd>
+  <dd> The ACM Web Conference The ACM Web Conference (<strong>WWW</strong>), 2026</dd>
   <dd>
     <a href="https://arxiv.org/abs/2601.12996">[Paper]</a> 
     <a href="https://github.com/shiy-li/OFA-MAS">[Code]</a>
@@ -71,7 +71,6 @@ Selected Papers (first-author/co-first-author)
 </dl>
 
 ---
-
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/EFGNN.jpg"></dt>
