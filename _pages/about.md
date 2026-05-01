@@ -14,10 +14,12 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 News
 ------
-* 2026/01: Our paper on [One-for-All Multi-Agent System Topology Design](https://arxiv.org/abs/2601.12996) has been accepted by WWW 2026.
-* 2025/11: Our paper on [Autoregressive Generation of Multi-Agent Collaboration Graphs](https://arxiv.org/abs/2507.18224) has been accepted by AAAI 2026 (Oral).
-* 2025/10: Our position paper on [Graph-Augmented LLM-based Agents](https://arxiv.org/abs/2507.21407) has been accepted by IEEE Intelligent Systems.
-* 2025/08: Our paper on [Traning-Free Graph Anomaly Detection](https://arxiv.org/abs/2508.10594) has been accepted by CIKM 2025.
+* 2026/05: Our paper on [one-for-all tabular data anomaly detection](https://arxiv.org/abs/2603.14407) has been accepted by ICML 2026.
+* 2026/04: Our paper on [zero shot generalist graph anomaly detection](https://arxiv.org/abs/2602.18793) has been accepted by IEEE Transactions on Knowledge and Data Engineering.
+* 2026/01: Our paper on [one-for-all multi-agent system topology design](https://arxiv.org/abs/2601.12996) has been accepted by WWW 2026.
+* 2025/11: Our paper on [autoregressive generation of multi-agent collaboration graphs](https://arxiv.org/abs/2507.18224) has been accepted by AAAI 2026 (Oral).
+* 2025/10: Our position paper on [graph-augmented LLM-based agents](https://arxiv.org/abs/2507.21407) has been accepted by IEEE Intelligent Systems.
+* 2025/08: Our paper on [traning-free graph anomaly detection](https://arxiv.org/abs/2508.10594) has been accepted by CIKM 2025.
 * 2025/06: Our paper on [uncertainty-aware graph neural network](https://arxiv.org/abs/2506.13083) has been accepted by TNNLS 2025.
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/abs/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/07: Our paper on [graph representation learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679758) has been accepted by CIKM 2024.
@@ -26,6 +28,36 @@ News
 
 Selected Papers (first-author/co-first-author)
 ------
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ofatad.png"></dt>
+  <!-- <div style="min-height: 0px;"> -->
+  <dd><strong>Towards One-for-All Anomaly Detection for Tabular Data</strong></dd>
+  <dd><strong>Shiyuan Li</strong>, Yixin Liu, Xiaofeng Cao, Shirui Pan, Heng Tao Shen</dd>
+  <dd> The 43 International Conference on Machine Learning </dd>
+  <dd>
+    <a href="https://arxiv.org/abs/2603.14407">[Paper]</a> 
+    <a href="https://github.com/Shiy-Li/OFA-TAD">[Code]</a>
+  </dd>
+  <!-- </div> -->
+</dl>
+
+---
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arczero.png"></dt>
+  <!-- <div style="min-height: 0px;"> -->
+  <dd><strong>From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection</strong></dd>
+  <dd>Yixin Liu*, <strong>Shiyuan Li*</strong>, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Philip S. Yu, Shirui Pan</dd>
+  <dd> IEEE Transactions on Knowledge and Data Engineering </dd>
+  <dd>
+    <a href="https://arxiv.org/abs/2602.18793">[Paper]</a> 
+    <a href="https://github.com/Shiy-Li/ARC-zero">[Code]</a>
+  </dd>
+  <!-- </div> -->
+</dl>
+
+---
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/OFA-MAS.png"></dt>
