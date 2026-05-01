@@ -17,7 +17,11 @@ author_profile: true
 
 ## Conference
 -----
-* OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models \[[PDF]()\] \[[Code](https://github.com/shiy-li/OFA-MAS)\]. <br> 
+* Towards One-for-All Anomaly Detection for Tabular Data \[[PDF](https://arxiv.org/pdf/2603.14407)\] \[[Code](https://github.com/shiy-li/OFA-TAD)\]. <br> 
+**Shiyuan Li**, Yixin Liu, Yu Zheng, Xiaofeng Cao, Shirui Pan,  Heng Tao Shen. <br>
+The 43rd International Conference on Machine Learning (**ICML**), 2026.
+
+* OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models \[[PDF](https://arxiv.org/pdf/2601.12996)\] \[[Code](https://github.com/shiy-li/OFA-MAS)\]. <br> 
 **Shiyuan Li**, Yixin Liu, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan. <br>
 The ACM Web Conference (**WWW**), 2026.
 
@@ -39,6 +43,10 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 
 ## Journal
 -----
+* From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection \[[PDF](https://arxiv.org/pdf/2602.18793)\] \[[Code](https://github.com/shiy-li/ARC-Zero)\]. <br> 
+Yixin Liu*, **Shiyuan Li**\*, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Philip S. Yu, Shirui Pan. <br>
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
+
 * Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects \[[PDF](https://arxiv.org/abs/2507.21407)\] \[[Code](https://github.com/Shiy-Li/Awesome-Graph-augmented-LLM-Agent)\]. <br>
 Yixin Liu, Guibin Zhang, Kun Wang, **Shiyuan Li**, Shirui Pan. <br>
 IEEE Intelligent Systems, 2025.
