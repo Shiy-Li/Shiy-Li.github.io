@@ -34,7 +34,7 @@ Selected Papers (first-author/co-first-author)
   <!-- <div style="min-height: 0px;"> -->
   <dd><strong>Towards One-for-All Anomaly Detection for Tabular Data</strong></dd>
   <dd><strong>Shiyuan Li</strong>, Yixin Liu, Xiaofeng Cao, Shirui Pan, Heng Tao Shen</dd>
-  <dd> The 43 International Conference on Machine Learning </dd>
+  <dd> The 43rd International Conference on Machine Learning </dd>
   <dd>
     <a href="https://arxiv.org/abs/2603.14407">[Paper]</a> 
     <a href="https://github.com/Shiy-Li/OFA-TAD">[Code]</a>
